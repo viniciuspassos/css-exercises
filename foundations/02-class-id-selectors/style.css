@@ -1,0 +1,16 @@
+.general-number {
+  background-color: lightpink;
+  font-family: Verdana, Dejavu Sans, sans-serif;
+}
+.general-number.cool-class {
+  font-size: 24px;
+}
+#special-number {
+  color: #0000ff;
+  font-size: 36px;
+}
+#another-special {
+  background-color: #90ee90;
+  font-size: 24px;
+  font-weight: bold;
+}
